@@ -1,0 +1,1 @@
+Class-Path: lib/hadoop-common-2.7.0.jar lib/hadoop-mapreduce-client-common-2.7.0.jar lib/commons-cli-1.2.jar
