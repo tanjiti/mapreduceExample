@@ -1,3 +1,3 @@
 mapreduce programming example
 
-more detail : http://danqingdani.blog.163.com/blog/static/18609419520154873644955/
+more detail : http://tanjiti.lofter.com/post/1cc6c85b_10c4e345
